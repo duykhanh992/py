@@ -1,0 +1,376 @@
+20266,Adams,Sandy,F,1,Regional Representative,46978,4,1/1/2009,Mammoth Hospital,93546-0660,District,Small/Rural,Charity,327.0,135520.2186,20523425.53,34916220.47,49933713,-5505933,15
+37393,Iwata,Akira,M,1,Regional Representative,46978,4,1/1/2011,Victor Valley Community Hospital,92392,Non Profit,Small/Rural,Charity,345.0,136156.6913,33447542.78,20348596.22,53351748,-444391,99
+20277,Johanson,Sandy,F,1,Regional Representative,46978,4,1/1/2012,Pioneers Memorial Hospital,92227,District,Small/Rural,Charity,601.2,197094.2541,37254178.67,37832448.33,72933707,-2152920,107
+46348,Paanua,Kaaluai,M,1,Regional Representative,46978,4,1/1/2011,Ridgecrest Regional Hospital,93555,Non Profit,Small/Rural,Charity,400.0,139170.3798,23385570.1,24661355.9,51087341,3040415,55
+12145,Rodriguez,Jose,M,1,Regional Representative,46978,4,1/1/2009,Barstow Community Hospital,92311,Investor,Small/Rural,Charity,262.0,116797.8306,13684502.49,15159986.51,42845642,14001153,42
+46985,Smith,Frank,M,1,Regional Representative,46978,4,1/1/2010,St. Elizabeth Community Hospital,96080,Non Profit,Small/Rural,Charity,397.5,232503.0191,36682888.7,36739260.3,85808509,12386360,66
+17718,Charles,Kenneth,M,1,Regional Representative,46978,4,1/1/2009,Ukiah Valley Medical Center,95482,Non Profit,Small/Rural,Charity,503.5,214516.4481,32709222.65,43571851.35,79005075,2724001,65
+46838,Milgrom,Patricia,F,1,Regional Representative,46978,4,1/1/2009,Mountains Community Hospital,92352,District,Small/Rural,Charity,158.0,30786.19672,5733926.902000001,10727445.1,11947133,-4514239,35
+38802,Dong,HongWei,F,1,Regional Representative,46978,4,1/1/2010,Colusa Regional Medical Center,95932-2954,Non Profit,Small/Rural,Charity,168.0,51726.4918,9022366.447,10402509.55,19445901,21025,48
+11875,Smith,Mary,F,1,Regional Representative,46978,4,1/1/2011,St. Mary Medical Center,92307-2206,Non Profit,Small/Rural,Charity,1216.0,540975.1175,125128283.3,66801544.65,199873795,7943967,186
+35512,Brown,Marietta,F,1,Regional Representative,46978,4,1/1/2009,Goleta Valley Cottage Hospital,93111,Non Profit,Small/Rural,Charity,288.0,335179.5574,53589036.09,67030147.91,126303054,5683870,119
+33251,Manin,Emily,F,2,State Board Representative,89473,3,1/1/2009,Barton Memorial Hospital,96150,Non Profit,Small/Rural,Charity,750.0,335179.5574,53589036.09,67030147.91,126303054,5683870,119
+22181,Jones,Holly,F,2,State Board Representative,89473,3,1/1/2012,Memorial Hospital - Los Banos,93635-3419,Non Profit,Small/Rural,Charity,235.0,105166.8934,15065967.36,23338063.64,39282960,878929,48
+36569,Flemming,Kris,F,2,State Board Representative,89473,3,1/1/2010,Fairchild Medical Center,96097-3450,Non Profit,Small/Rural,Charity,250.0,108162.9126,14859739.23,23623658.77,40140721,1657323,25
+44817,Marlin,Bill,M,2,State Board Representative,89473,3,1/1/2010,Mercy Medical Center - Mount Shasta,96067,Non Profit,Small/Rural,Charity,215.5,123480.2705,22003500.15,22410053.85,45769108,1355554,60
+17757,Fourier,Craig,M,3,Acting Director,248904,8,1/1/2005,Sutter Lakeside Hospital,95453-6112,Non Profit,Small/Rural,Charity,353.0,173227.4863,28647611.24,39621438.76,64464737,-3804313,25
+46342,Tanner,Patricia,F,3,Acting Director,248904,8,1/1/2011,Hanford Community Medical Center,93230-3513,Non Profit,Small/Rural,Charity,777.0,363127.5956,53704666.43,70582081.57,134067466,9780718,121
+17700,Frank,Vernon,M,3,Acting Director,248904,8,1/1/2005,Tahoe Forest Hospital District,96161,District,Small/Rural,Charity,374.32,209348.9426,34782311.0,48159490.0,83034898,93097,62
+10767,Adamson,David,M,3,Acting Director,248904,8,1/1/2002,Colorado River Medical Center,92363,Investor,Small/Rural,Charity,75.0,33593.68306,2309239.599,3787718.401,12295288,6198330,25
+28812,Holmes,Holly,F,3,Acting Director,248904,8,1/1/2003,Coalinga Regional Medical Center,93210,District,Small/Rural,Charity,160.0,65792.42623,15341310.03,7916539.967999999,24164520,906670,131
+21053,Coulter,Tracy,F,4,Safety Inspection Member,23987,2,1/1/2011,Sutter Amador Hospital,95642-2379,Non Profit,Small/Rural,Charity,318.0,161745.22400000002,30646705.07,30277613.93,59669536,-1254783,42
+37285,Wood,Emily,F,4,Safety Inspection Member,23987,2,1/1/2011,Sutter Coast Hospital,95531-8359,Non Profit,Small/Rural,Charity,363.0,172398.8579,22781278.48,38582723.52,63398216,2034214,59
+20225,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,1/1/2011,Redwood Memorial Hospital,95540,Non Profit,Small/Rural,Charity,193.0,103189.4044,14252309.04,18158329.96,37957024,5546385,35
+45740,Web,David,M,4,Safety Inspection Member,23987,2,1/1/2012,Mark Twain St. Joseph's Hospital,95249,Non Profit,Small/Rural,Charity,236.5,116609.8169,17857498.72,22701126.28,43342578,2783953,26
+44982,Adams,Sandy,F,1,Regional Representative,46978,4,1/1/2008,Frank R. Howard Memorial Hospital,95490-4225,Non Profit,Small/Rural,Charity,226.0,94015.90984,17300751.23,14392070.77,34945064,3252242,25
+39110,Iwata,Akira,M,1,Regional Representative,46978,4,1/1/2012,Twin Cities Community Hospital,93465,Investor,Small/Rural,Charity,359.0,240737.9563,53252019.74,22922297.26,88495493,12321176,84
+34959,Johanson,Sandy,F,1,Regional Representative,46978,4,1/1/2012,Sonora Regional Medical Center - greenley,95370,Non Profit,Small/Rural,Charity,779.0,367540.6639,68228848.83,69968859.17,139302913,1105205,152
+38900,Paanua,Kaaluai,M,1,Regional Representative,46978,4,1/1/2011,Fallbrook Hospital,92028,District,Small/Rural,Charity,501.0,108960.418,23001687.34,14727466.66,40329849,2600695,146
+45771,Rodriguez,Jose,M,1,Regional Representative,46978,4,1/1/2011,Sierra Nevada Memorial Hospital,95945,Non Profit,Small/Rural,Charity,524.5,295579.235,56692825.1,50264174.9,109748000,2791000,121
+28283,Smith,Frank,M,3,Acting Director,248904,8,1/1/2005,Santa Ynez Valley Cottage Hospital,93463,Non Profit,Small/Rural,Charity,67.0,28773.45355,1780969.0180000002,8235087.982000001,10751114,735057,20
+17736,Charles,Kenneth,M,3,Acting Director,248904,8,1/1/2006,Glenn Medical Center,95988-2745,Non Profit,Small/Rural,Charity,100.0,29712.3306,2076879.134,9501694.866,11932140,353566,15
+13738,Milgrom,Patricia,F,4,Safety Inspection Member,23987,2,1/1/2011,Palm Drive Hospital,95472,District,Small/Rural,Charity,191.0,61816.759560000006,13613286.65,14261284.35,22745333,-5129238,28
+31032,Dong,HongWei,F,4,Safety Inspection Member,23987,2,1/1/2012,Hi-Desert Medical Center,92252,District,Small/Rural,Charity,451.5,145733.5765,31842679.16,21184931.84,53619042,591431,179
+22460,Smith,Mary,F,4,Safety Inspection Member,23987,2,1/1/2012,San Gorgonio Memorial Hospital,92220,District,Small/Rural,Charity,259.0,14313.049180000002,6184049.707,4181151.293,5303740,-5061461,77
+13722,Brown,Marietta,F,4,Safety Inspection Member,23987,2,1/1/2012,Marshall Hospital,95667,Non Profit,Small/Rural,Charity,900.0,404802.8279,81584337.68,75492249.32,149225726,-7850861,102
+32930,Manin,Emily,F,1,Regional Representative,46978,4,1/1/2011,Biggs-Gridley Memorial Hospital,95948,Non Profit,Small/Rural,Charity,170.0,40498.73497,8513820.328,7888571.672,15294215,-1108177,45
+39102,Jones,Holly,F,2,State Board Representative,89473,3,1/1/2012,Oak Valley District Hospital,95361,District,Small/Rural,Charity,503.0,137280.7104,19495615.83,29846903.17,50915214,1572695,150
+20231,Flemming,Kris,F,2,State Board Representative,89473,3,1/1/2012,Southern Inyo Hospital,93545-1009,District,Small/Rural,Charity,121.0,17566.92896,2890228.445,4578887.555,6677960,-791156,37
+39050,Marlin,Bill,M,3,Acting Director,248904,8,1/1/2008,Eastern Plumas Hospital - Portola Campus,96122-9406,District,Small/Rural,Charity,219.0,52983.85792,8074272.754,12996071.25,19484351,-1585993,76
+33192,Fourier,Craig,M,1,Regional Representative,46978,4,1/1/2011,Modoc Medical Center,96101,City/County,Small/Rural,Charity,170.0,26260.51366,4705385.115,8679873.885,9821366,-3563893,87
+43437,Tanner,Patricia,F,1,Regional Representative,46978,4,1/1/2010,Healdsburg District Hospital,95448-3382,District,Small/Rural,Charity,150.0,64759.03825,10963429.49,14259517.51,23993709,-1229238,38
+33283,Frank,Vernon,M,1,Regional Representative,46978,4,1/1/2012,Catalina Island Medical Center,90704,Non Profit,Small/Rural,Charity,55.0,14172.240440000001,1436470.7040000001,3989894.296,5235317,-191048,12
+25667,Adamson,David,M,1,Regional Representative,46978,4,1/1/2012,Kern Valley Hospital,93240-9529,District,Small/Rural,Charity,159.0,57728.56284,10131249.89,11391720.11,21343696,-179274,99
+46844,Holmes,Holly,F,3,Acting Director,248904,8,1/1/2010,Ojai Valley Community Hospital,93023-3163,Non Profit,Small/Rural,Charity,180.0,59504.62295,11955296.77,10326804.23,22492281,210180,103
+19868,Coulter,Tracy,F,1,Regional Representative,46978,4,1/1/2010,UC Irvine Medical Center,92868,Non Profit,Teaching,Alumni,3151.0,1476284.836,380582272.4,117664293.6,552107524,53860958,363
+29805,Wood,Emily,F,2,State Board Representative,89473,3,1/1/2011,St. Mary's Medical Center - san francisco,94117,Non Profit,Teaching,Alumni,871.5,503894.9617,134478569.3,56055091.67,193344412,2810751,234
+46996,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,1/1/2009,LAC USC Medical Center,90033,City/County,Teaching,Alumni,6753.0,2070024.44,827311396.9,274160384.1,780308445,-321163336,715
+34454,Web,David,M,3,Acting Director,248904,8,1/1/2012,Arrowhead Regional Medical Center,92324,City/County,Teaching,Alumni,2554.0,723744.8169,250464082.0,140295929.0,270810707,-119949304,353
+38798,Iwata,Akira,M,1,Regional Representative,46978,4,1/1/2011,Kern Medical Center,93305,City/County,Teaching,Alumni,1850.0,500659.6913,173745016.7,93066706.34,185789682,-81022041,211
+37436,Johanson,Sandy,F,2,State Board Representative,89473,3,1/1/2012,Riverside County Regional Medical Center,92555-3911,City/County,Teaching,Alumni,2403.0,968917.4973,272301253.5,105600423.5,383631414,5729737,373
+37043,Paanua,Kaaluai,M,2,State Board Representative,89473,3,1/1/2010,Santa Clara Valley Medical Center,95128,City/County,Teaching,Alumni,5314.0,1665619.301,543651243.9,394890175.1,624540818,-314000601,523
+43353,Rodriguez,Jose,M,4,Safety Inspection Member,23987,2,1/1/2011,Alameda Hospital,94501,City/County,Teaching,Alumni,450.0,1021054.09,302789256.3,142325346.7,463893926,18779323,453
+33207,Charles,Kenneth,M,2,State Board Representative,89473,3,1/1/2010,Community Regional Medical Center,93721-1324,Non Profit,Teaching,Alumni,3500.0,1710382.4230000002,414994752.2,207990670.8,643041802,20056379,606
+17741,Marlin,Bill,M,4,Safety Inspection Member,23987,2,1/1/2011,UC Davis Medical Center,95817-2282,Non Profit,Teaching,Alumni,6525.0,2901254.5110000004,727291813.6,288075685.4,1069148717,53781218,563
+26206,Fourier,Craig,M,3,Acting Director,248904,8,1/1/2011,UCSD Medical Center - Hillcrest,92103-8970,Non Profit,Teaching,Alumni,3892.0,2428730.281,462934124.3,332127550.7,941108780,146047105,527
+29823,Tanner,Patricia,F,3,Acting Director,248904,8,1/1/2009,UCSF Medical Center,94143,Non Profit,Teaching,Alumni,6062.0,4168988.809,982500473.3,518309865.7,1549426466,48616127,658
+33242,Frank,Vernon,M,4,Safety Inspection Member,23987,2,1/1/2011,Scripps Mercy Hospital,92103,Non Profit,Teaching,Alumni,2814.0,1321031.801,379102920.9,106430168.1,491523782,5990693,530
+45067,Adamson,David,M,4,Safety Inspection Member,23987,2,1/1/2012,Long Beach Memorial & Miller Children's Hospital,90806,Non Profit,Teaching,Alumni,5218.0,1187021.872,291248099.9,109328611.1,439084836,38508125,462
+22598,Holmes,Holly,F,3,Acting Director,248904,8,1/1/2012,Stanford Hospital & Clinics,94305,Non Profit,Teaching,Alumni,6392.0,4333934.423,928962114.3,662155885.7,1650391999,59273999,445
+39076,Wood,Emily,F,1,Regional Representative,46978,4,1/1/2010,California Pacific Medical Center - Pacific Campus,94115,Non Profit,Teaching,Alumni,1565.1,2736281.415,633790340.1,296020659.9,1074256998,144445998,730
+45736,Web,David,M,2,State Board Representative,89473,3,1/1/2011,Cedars-Sinai Medical Center,90048,Non Profit,Teaching,Alumni,8000.0,4662581.617,1285631166.0,461675838.2,1912179417,164872413,909
+20266,Adams,Sandy,F,1,Regional Representative,46978,4,1/1/2009,Mammoth Hospital,93546-0660,District,Small/Rural,Charity,327.0,135520.2186,20523425.53,34916220.47,49933713,-5505933,15
+37393,Iwata,Akira,M,1,Regional Representative,46978,4,1/1/2011,Victor Valley Community Hospital,92392,Non Profit,Small/Rural,Charity,345.0,136156.6913,33447542.78,20348596.22,53351748,-444391,99
+20277,Johanson,Sandy,F,1,Regional Representative,46978,4,1/1/2012,Pioneers Memorial Hospital,92227,District,Small/Rural,Charity,601.2,197094.2541,37254178.67,37832448.33,72933707,-2152920,107
+46348,Paanua,Kaaluai,M,1,Regional Representative,46978,4,1/1/2011,Ridgecrest Regional Hospital,93555,Non Profit,Small/Rural,Charity,400.0,139170.3798,23385570.1,24661355.9,51087341,3040415,55
+12145,Rodriguez,Jose,M,1,Regional Representative,46978,4,1/1/2009,Barstow Community Hospital,92311,Investor,Small/Rural,Charity,262.0,116797.8306,13684502.49,15159986.51,42845642,14001153,42
+46985,Smith,Frank,M,1,Regional Representative,46978,4,1/1/2010,St. Elizabeth Community Hospital,96080,Non Profit,Small/Rural,Charity,397.5,232503.0191,36682888.7,36739260.3,85808509,12386360,66
+17718,Charles,Kenneth,M,1,Regional Representative,46978,4,1/1/2009,Ukiah Valley Medical Center,95482,Non Profit,Small/Rural,Charity,503.5,214516.4481,32709222.65,43571851.35,79005075,2724001,65
+46838,Milgrom,Patricia,F,1,Regional Representative,46978,4,1/1/2009,Mountains Community Hospital,92352,District,Small/Rural,Charity,158.0,30786.19672,5733926.902000001,10727445.1,11947133,-4514239,35
+38802,Dong,HongWei,F,1,Regional Representative,46978,4,1/1/2010,Colusa Regional Medical Center,95932-2954,Non Profit,Small/Rural,Charity,168.0,51726.4918,9022366.447,10402509.55,19445901,21025,48
+11875,Smith,Mary,F,1,Regional Representative,46978,4,1/1/2011,St. Mary Medical Center,92307-2206,Non Profit,Small/Rural,Charity,1216.0,540975.1175,125128283.3,66801544.65,199873795,7943967,186
+35512,Brown,Marietta,F,1,Regional Representative,46978,4,1/1/2009,Goleta Valley Cottage Hospital,93111,Non Profit,Small/Rural,Charity,288.0,335179.5574,53589036.09,67030147.91,126303054,5683870,119
+33251,Manin,Emily,F,2,State Board Representative,89473,3,1/1/2009,Barton Memorial Hospital,96150,Non Profit,Small/Rural,Charity,750.0,335179.5574,53589036.09,67030147.91,126303054,5683870,119
+22181,Jones,Holly,F,2,State Board Representative,89473,3,1/1/2012,Memorial Hospital - Los Banos,93635-3419,Non Profit,Small/Rural,Charity,235.0,105166.8934,15065967.36,23338063.64,39282960,878929,48
+36569,Flemming,Kris,F,2,State Board Representative,89473,3,1/1/2010,Fairchild Medical Center,96097-3450,Non Profit,Small/Rural,Charity,250.0,108162.9126,14859739.23,23623658.77,40140721,1657323,25
+44817,Marlin,Bill,M,2,State Board Representative,89473,3,1/1/2010,Mercy Medical Center - Mount Shasta,96067,Non Profit,Small/Rural,Charity,215.5,123480.2705,22003500.15,22410053.85,45769108,1355554,60
+17757,Fourier,Craig,M,3,Acting Director,248904,8,1/1/2005,Sutter Lakeside Hospital,95453-6112,Non Profit,Small/Rural,Charity,353.0,173227.4863,28647611.24,39621438.76,64464737,-3804313,25
+46342,Tanner,Patricia,F,3,Acting Director,248904,8,1/1/2011,Hanford Community Medical Center,93230-3513,Non Profit,Small/Rural,Charity,777.0,363127.5956,53704666.43,70582081.57,134067466,9780718,121
+17700,Frank,Vernon,M,3,Acting Director,248904,8,1/1/2005,Tahoe Forest Hospital District,96161,District,Small/Rural,Charity,374.32,209348.9426,34782311.0,48159490.0,83034898,93097,62
+10767,Adamson,David,M,3,Acting Director,248904,8,1/1/2002,Colorado River Medical Center,92363,Investor,Small/Rural,Charity,75.0,33593.68306,2309239.599,3787718.401,12295288,6198330,25
+28812,Holmes,Holly,F,3,Acting Director,248904,8,1/1/2003,Coalinga Regional Medical Center,93210,District,Small/Rural,Charity,160.0,65792.42623,15341310.03,7916539.967999999,24164520,906670,131
+21053,Coulter,Tracy,F,4,Safety Inspection Member,23987,2,1/1/2011,Sutter Amador Hospital,95642-2379,Non Profit,Small/Rural,Charity,318.0,161745.22400000002,30646705.07,30277613.93,59669536,-1254783,42
+37285,Wood,Emily,F,4,Safety Inspection Member,23987,2,1/1/2011,Sutter Coast Hospital,95531-8359,Non Profit,Small/Rural,Charity,363.0,172398.8579,22781278.48,38582723.52,63398216,2034214,59
+20225,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,1/1/2011,Redwood Memorial Hospital,95540,Non Profit,Small/Rural,Charity,193.0,103189.4044,14252309.04,18158329.96,37957024,5546385,35
+45740,Web,David,M,4,Safety Inspection Member,23987,2,1/1/2012,Mark Twain St. Joseph's Hospital,95249,Non Profit,Small/Rural,Charity,236.5,116609.8169,17857498.72,22701126.28,43342578,2783953,26
+44982,Adams,Sandy,F,1,Regional Representative,46978,4,1/1/2008,Frank R. Howard Memorial Hospital,95490-4225,Non Profit,Small/Rural,Charity,226.0,94015.90984,17300751.23,14392070.77,34945064,3252242,25
+39110,Iwata,Akira,M,1,Regional Representative,46978,4,1/1/2012,Twin Cities Community Hospital,93465,Investor,Small/Rural,Charity,359.0,240737.9563,53252019.74,22922297.26,88495493,12321176,84
+34959,Johanson,Sandy,F,1,Regional Representative,46978,4,1/1/2012,Sonora Regional Medical Center - greenley,95370,Non Profit,Small/Rural,Charity,779.0,367540.6639,68228848.83,69968859.17,139302913,1105205,152
+38900,Paanua,Kaaluai,M,1,Regional Representative,46978,4,1/1/2011,Fallbrook Hospital,92028,District,Small/Rural,Charity,501.0,108960.418,23001687.34,14727466.66,40329849,2600695,146
+45771,Rodriguez,Jose,M,1,Regional Representative,46978,4,1/1/2011,Sierra Nevada Memorial Hospital,95945,Non Profit,Small/Rural,Charity,524.5,295579.235,56692825.1,50264174.9,109748000,2791000,121
+28283,Smith,Frank,M,3,Acting Director,248904,8,1/1/2005,Santa Ynez Valley Cottage Hospital,93463,Non Profit,Small/Rural,Charity,67.0,28773.45355,1780969.0180000002,8235087.982000001,10751114,735057,20
+17736,Charles,Kenneth,M,3,Acting Director,248904,8,1/1/2006,Glenn Medical Center,95988-2745,Non Profit,Small/Rural,Charity,100.0,29712.3306,2076879.134,9501694.866,11932140,353566,15
+13738,Milgrom,Patricia,F,4,Safety Inspection Member,23987,2,1/1/2011,Palm Drive Hospital,95472,District,Small/Rural,Charity,191.0,61816.759560000006,13613286.65,14261284.35,22745333,-5129238,28
+31032,Dong,HongWei,F,4,Safety Inspection Member,23987,2,1/1/2012,Hi-Desert Medical Center,92252,District,Small/Rural,Charity,451.5,145733.5765,31842679.16,21184931.84,53619042,591431,179
+22460,Smith,Mary,F,4,Safety Inspection Member,23987,2,1/1/2012,San Gorgonio Memorial Hospital,92220,District,Small/Rural,Charity,259.0,14313.049180000002,6184049.707,4181151.293,5303740,-5061461,77
+13722,Brown,Marietta,F,4,Safety Inspection Member,23987,2,1/1/2012,Marshall Hospital,95667,Non Profit,Small/Rural,Charity,900.0,404802.8279,81584337.68,75492249.32,149225726,-7850861,102
+32930,Manin,Emily,F,1,Regional Representative,46978,4,1/1/2011,Biggs-Gridley Memorial Hospital,95948,Non Profit,Small/Rural,Charity,170.0,40498.73497,8513820.328,7888571.672,15294215,-1108177,45
+39102,Jones,Holly,F,2,State Board Representative,89473,3,1/1/2012,Oak Valley District Hospital,95361,District,Small/Rural,Charity,503.0,137280.7104,19495615.83,29846903.17,50915214,1572695,150
+20231,Flemming,Kris,F,2,State Board Representative,89473,3,1/1/2012,Southern Inyo Hospital,93545-1009,District,Small/Rural,Charity,121.0,17566.92896,2890228.445,4578887.555,6677960,-791156,37
+39050,Marlin,Bill,M,3,Acting Director,248904,8,1/1/2008,Eastern Plumas Hospital - Portola Campus,96122-9406,District,Small/Rural,Charity,219.0,52983.85792,8074272.754,12996071.25,19484351,-1585993,76
+33192,Fourier,Craig,M,1,Regional Representative,46978,4,1/1/2011,Modoc Medical Center,96101,City/County,Small/Rural,Charity,170.0,26260.51366,4705385.115,8679873.885,9821366,-3563893,87
+43437,Tanner,Patricia,F,1,Regional Representative,46978,4,1/1/2010,Healdsburg District Hospital,95448-3382,District,Small/Rural,Charity,150.0,64759.03825,10963429.49,14259517.51,23993709,-1229238,38
+33283,Frank,Vernon,M,1,Regional Representative,46978,4,1/1/2012,Catalina Island Medical Center,90704,Non Profit,Small/Rural,Charity,55.0,14172.240440000001,1436470.7040000001,3989894.296,5235317,-191048,12
+25667,Adamson,David,M,1,Regional Representative,46978,4,1/1/2012,Kern Valley Hospital,93240-9529,District,Small/Rural,Charity,159.0,57728.56284,10131249.89,11391720.11,21343696,-179274,99
+46844,Holmes,Holly,F,3,Acting Director,248904,8,1/1/2010,Ojai Valley Community Hospital,93023-3163,Non Profit,Small/Rural,Charity,180.0,59504.62295,11955296.77,10326804.23,22492281,210180,103
+19868,Coulter,Tracy,F,1,Regional Representative,46978,4,1/1/2010,UC Irvine Medical Center,92868,Non Profit,Teaching,Alumni,3151.0,1476284.836,380582272.4,117664293.6,552107524,53860958,363
+29805,Wood,Emily,F,2,State Board Representative,89473,3,1/1/2011,St. Mary's Medical Center - san francisco,94117,Non Profit,Teaching,Alumni,871.5,503894.9617,134478569.3,56055091.67,193344412,2810751,234
+46996,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,1/1/2009,LAC USC Medical Center,90033,City/County,Teaching,Alumni,6753.0,2070024.44,827311396.9,274160384.1,780308445,-321163336,715
+34454,Web,David,M,3,Acting Director,248904,8,1/1/2012,Arrowhead Regional Medical Center,92324,City/County,Teaching,Alumni,2554.0,723744.8169,250464082.0,140295929.0,270810707,-119949304,353
+38798,Iwata,Akira,M,1,Regional Representative,46978,4,1/1/2011,Kern Medical Center,93305,City/County,Teaching,Alumni,1850.0,500659.6913,173745016.7,93066706.34,185789682,-81022041,211
+37436,Johanson,Sandy,F,2,State Board Representative,89473,3,1/1/2012,Riverside County Regional Medical Center,92555-3911,City/County,Teaching,Alumni,2403.0,968917.4973,272301253.5,105600423.5,383631414,5729737,373
+37043,Paanua,Kaaluai,M,2,State Board Representative,89473,3,1/1/2010,Santa Clara Valley Medical Center,95128,City/County,Teaching,Alumni,5314.0,1665619.301,543651243.9,394890175.1,624540818,-314000601,523
+43353,Rodriguez,Jose,M,4,Safety Inspection Member,23987,2,1/1/2011,Alameda Hospital,94501,City/County,Teaching,Alumni,450.0,1021054.09,302789256.3,142325346.7,463893926,18779323,453
+33207,Charles,Kenneth,M,2,State Board Representative,89473,3,1/1/2010,Community Regional Medical Center,93721-1324,Non Profit,Teaching,Alumni,3500.0,1710382.4230000002,414994752.2,207990670.8,643041802,20056379,606
+17741,Marlin,Bill,M,4,Safety Inspection Member,23987,2,1/1/2011,UC Davis Medical Center,95817-2282,Non Profit,Teaching,Alumni,6525.0,2901254.5110000004,727291813.6,288075685.4,1069148717,53781218,563
+26206,Fourier,Craig,M,3,Acting Director,248904,8,1/1/2011,UCSD Medical Center - Hillcrest,92103-8970,Non Profit,Teaching,Alumni,3892.0,2428730.281,462934124.3,332127550.7,941108780,146047105,527
+29823,Tanner,Patricia,F,3,Acting Director,248904,8,1/1/2009,UCSF Medical Center,94143,Non Profit,Teaching,Alumni,6062.0,4168988.809,982500473.3,518309865.7,1549426466,48616127,658
+33242,Frank,Vernon,M,4,Safety Inspection Member,23987,2,1/1/2011,Scripps Mercy Hospital,92103,Non Profit,Teaching,Alumni,2814.0,1321031.801,379102920.9,106430168.1,491523782,5990693,530
+45067,Adamson,David,M,4,Safety Inspection Member,23987,2,1/1/2012,Long Beach Memorial & Miller Children's Hospital,90806,Non Profit,Teaching,Alumni,5218.0,1187021.872,291248099.9,109328611.1,439084836,38508125,462
+22598,Holmes,Holly,F,3,Acting Director,248904,8,1/1/2012,Stanford Hospital & Clinics,94305,Non Profit,Teaching,Alumni,6392.0,4333934.423,928962114.3,662155885.7,1650391999,59273999,445
+39076,Wood,Emily,F,1,Regional Representative,46978,4,1/1/2010,California Pacific Medical Center - Pacific Campus,94115,Non Profit,Teaching,Alumni,1565.1,2736281.415,633790340.1,296020659.9,1074256998,144445998,730
+45736,Web,David,M,2,State Board Representative,89473,3,1/1/2011,Cedars-Sinai Medical Center,90048,Non Profit,Teaching,Alumni,8000.0,4662581.617,1285631166.0,461675838.2,1912179417,164872413,909
+HospitalID,LastName,FirstName,Gender,PositionID,PositionTitle,Compensation,MaxTerm,StartDate,Name,Zip,TypeControl,Teaching,DonorType,NoFTE,NetPatRev,InOperExp,OutOperExp,OperRev,OperInc,AvlBeds
+20266,Adams,Sandy,F,1,Regional Representative,46978,4,1/1/2009,Mammoth Hospital,93546-0660,District,Small/Rural,Charity,327.0,135520.2186,20523425.53,34916220.47,49933713,-5505933,15
+37393,Iwata,Akira,M,1,Regional Representative,46978,4,1/1/2011,Victor Valley Community Hospital,92392,Non Profit,Small/Rural,Charity,345.0,136156.6913,33447542.78,20348596.22,53351748,-444391,99
+20277,Johanson,Sandy,F,1,Regional Representative,46978,4,1/1/2012,Pioneers Memorial Hospital,92227,District,Small/Rural,Charity,601.2,197094.2541,37254178.67,37832448.33,72933707,-2152920,107
+46348,Paanua,Kaaluai,M,1,Regional Representative,46978,4,1/1/2011,Ridgecrest Regional Hospital,93555,Non Profit,Small/Rural,Charity,400.0,139170.3798,23385570.1,24661355.9,51087341,3040415,55
+12145,Rodriguez,Jose,M,1,Regional Representative,46978,4,1/1/2009,Barstow Community Hospital,92311,Investor,Small/Rural,Charity,262.0,116797.8306,13684502.49,15159986.51,42845642,14001153,42
+46985,Smith,Frank,M,1,Regional Representative,46978,4,1/1/2010,St. Elizabeth Community Hospital,96080,Non Profit,Small/Rural,Charity,397.5,232503.0191,36682888.7,36739260.3,85808509,12386360,66
+17718,Charles,Kenneth,M,1,Regional Representative,46978,4,1/1/2009,Ukiah Valley Medical Center,95482,Non Profit,Small/Rural,Charity,503.5,214516.4481,32709222.65,43571851.35,79005075,2724001,65
+46838,Milgrom,Patricia,F,1,Regional Representative,46978,4,1/1/2009,Mountains Community Hospital,92352,District,Small/Rural,Charity,158.0,30786.19672,5733926.902000001,10727445.1,11947133,-4514239,35
+38802,Dong,HongWei,F,1,Regional Representative,46978,4,1/1/2010,Colusa Regional Medical Center,95932-2954,Non Profit,Small/Rural,Charity,168.0,51726.4918,9022366.447,10402509.55,19445901,21025,48
+11875,Smith,Mary,F,1,Regional Representative,46978,4,1/1/2011,St. Mary Medical Center,92307-2206,Non Profit,Small/Rural,Charity,1216.0,540975.1175,125128283.3,66801544.65,199873795,7943967,186
+35512,Brown,Marietta,F,1,Regional Representative,46978,4,1/1/2009,Goleta Valley Cottage Hospital,93111,Non Profit,Small/Rural,Charity,288.0,335179.5574,53589036.09,67030147.91,126303054,5683870,119
+33251,Manin,Emily,F,2,State Board Representative,89473,3,1/1/2009,Barton Memorial Hospital,96150,Non Profit,Small/Rural,Charity,750.0,335179.5574,53589036.09,67030147.91,126303054,5683870,119
+22181,Jones,Holly,F,2,State Board Representative,89473,3,1/1/2012,Memorial Hospital - Los Banos,93635-3419,Non Profit,Small/Rural,Charity,235.0,105166.8934,15065967.36,23338063.64,39282960,878929,48
+36569,Flemming,Kris,F,2,State Board Representative,89473,3,1/1/2010,Fairchild Medical Center,96097-3450,Non Profit,Small/Rural,Charity,250.0,108162.9126,14859739.23,23623658.77,40140721,1657323,25
+44817,Marlin,Bill,M,2,State Board Representative,89473,3,1/1/2010,Mercy Medical Center - Mount Shasta,96067,Non Profit,Small/Rural,Charity,215.5,123480.2705,22003500.15,22410053.85,45769108,1355554,60
+17757,Fourier,Craig,M,3,Acting Director,248904,8,1/1/2005,Sutter Lakeside Hospital,95453-6112,Non Profit,Small/Rural,Charity,353.0,173227.4863,28647611.24,39621438.76,64464737,-3804313,25
+46342,Tanner,Patricia,F,3,Acting Director,248904,8,1/1/2011,Hanford Community Medical Center,93230-3513,Non Profit,Small/Rural,Charity,777.0,363127.5956,53704666.43,70582081.57,134067466,9780718,121
+17700,Frank,Vernon,M,3,Acting Director,248904,8,1/1/2005,Tahoe Forest Hospital District,96161,District,Small/Rural,Charity,374.32,209348.9426,34782311.0,48159490.0,83034898,93097,62
+10767,Adamson,David,M,3,Acting Director,248904,8,1/1/2002,Colorado River Medical Center,92363,Investor,Small/Rural,Charity,75.0,33593.68306,2309239.599,3787718.401,12295288,6198330,25
+28812,Holmes,Holly,F,3,Acting Director,248904,8,1/1/2003,Coalinga Regional Medical Center,93210,District,Small/Rural,Charity,160.0,65792.42623,15341310.03,7916539.967999999,24164520,906670,131
+21053,Coulter,Tracy,F,4,Safety Inspection Member,23987,2,1/1/2011,Sutter Amador Hospital,95642-2379,Non Profit,Small/Rural,Charity,318.0,161745.22400000002,30646705.07,30277613.93,59669536,-1254783,42
+37285,Wood,Emily,F,4,Safety Inspection Member,23987,2,1/1/2011,Sutter Coast Hospital,95531-8359,Non Profit,Small/Rural,Charity,363.0,172398.8579,22781278.48,38582723.52,63398216,2034214,59
+20225,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,1/1/2011,Redwood Memorial Hospital,95540,Non Profit,Small/Rural,Charity,193.0,103189.4044,14252309.04,18158329.96,37957024,5546385,35
+45740,Web,David,M,4,Safety Inspection Member,23987,2,1/1/2012,Mark Twain St. Joseph's Hospital,95249,Non Profit,Small/Rural,Charity,236.5,116609.8169,17857498.72,22701126.28,43342578,2783953,26
+44982,Adams,Sandy,F,1,Regional Representative,46978,4,1/1/2008,Frank R. Howard Memorial Hospital,95490-4225,Non Profit,Small/Rural,Charity,226.0,94015.90984,17300751.23,14392070.77,34945064,3252242,25
+39110,Iwata,Akira,M,1,Regional Representative,46978,4,1/1/2012,Twin Cities Community Hospital,93465,Investor,Small/Rural,Charity,359.0,240737.9563,53252019.74,22922297.26,88495493,12321176,84
+34959,Johanson,Sandy,F,1,Regional Representative,46978,4,1/1/2012,Sonora Regional Medical Center - greenley,95370,Non Profit,Small/Rural,Charity,779.0,367540.6639,68228848.83,69968859.17,139302913,1105205,152
+38900,Paanua,Kaaluai,M,1,Regional Representative,46978,4,1/1/2011,Fallbrook Hospital,92028,District,Small/Rural,Charity,501.0,108960.418,23001687.34,14727466.66,40329849,2600695,146
+45771,Rodriguez,Jose,M,1,Regional Representative,46978,4,1/1/2011,Sierra Nevada Memorial Hospital,95945,Non Profit,Small/Rural,Charity,524.5,295579.235,56692825.1,50264174.9,109748000,2791000,121
+28283,Smith,Frank,M,3,Acting Director,248904,8,1/1/2005,Santa Ynez Valley Cottage Hospital,93463,Non Profit,Small/Rural,Charity,67.0,28773.45355,1780969.0180000002,8235087.982000001,10751114,735057,20
+17736,Charles,Kenneth,M,3,Acting Director,248904,8,1/1/2006,Glenn Medical Center,95988-2745,Non Profit,Small/Rural,Charity,100.0,29712.3306,2076879.134,9501694.866,11932140,353566,15
+13738,Milgrom,Patricia,F,4,Safety Inspection Member,23987,2,1/1/2011,Palm Drive Hospital,95472,District,Small/Rural,Charity,191.0,61816.759560000006,13613286.65,14261284.35,22745333,-5129238,28
+31032,Dong,HongWei,F,4,Safety Inspection Member,23987,2,1/1/2012,Hi-Desert Medical Center,92252,District,Small/Rural,Charity,451.5,145733.5765,31842679.16,21184931.84,53619042,591431,179
+22460,Smith,Mary,F,4,Safety Inspection Member,23987,2,1/1/2012,San Gorgonio Memorial Hospital,92220,District,Small/Rural,Charity,259.0,14313.049180000002,6184049.707,4181151.293,5303740,-5061461,77
+13722,Brown,Marietta,F,4,Safety Inspection Member,23987,2,1/1/2012,Marshall Hospital,95667,Non Profit,Small/Rural,Charity,900.0,404802.8279,81584337.68,75492249.32,149225726,-7850861,102
+32930,Manin,Emily,F,1,Regional Representative,46978,4,1/1/2011,Biggs-Gridley Memorial Hospital,95948,Non Profit,Small/Rural,Charity,170.0,40498.73497,8513820.328,7888571.672,15294215,-1108177,45
+39102,Jones,Holly,F,2,State Board Representative,89473,3,1/1/2012,Oak Valley District Hospital,95361,District,Small/Rural,Charity,503.0,137280.7104,19495615.83,29846903.17,50915214,1572695,150
+20231,Flemming,Kris,F,2,State Board Representative,89473,3,1/1/2012,Southern Inyo Hospital,93545-1009,District,Small/Rural,Charity,121.0,17566.92896,2890228.445,4578887.555,6677960,-791156,37
+39050,Marlin,Bill,M,3,Acting Director,248904,8,1/1/2008,Eastern Plumas Hospital - Portola Campus,96122-9406,District,Small/Rural,Charity,219.0,52983.85792,8074272.754,12996071.25,19484351,-1585993,76
+33192,Fourier,Craig,M,1,Regional Representative,46978,4,1/1/2011,Modoc Medical Center,96101,City/County,Small/Rural,Charity,170.0,26260.51366,4705385.115,8679873.885,9821366,-3563893,87
+43437,Tanner,Patricia,F,1,Regional Representative,46978,4,1/1/2010,Healdsburg District Hospital,95448-3382,District,Small/Rural,Charity,150.0,64759.03825,10963429.49,14259517.51,23993709,-1229238,38
+33283,Frank,Vernon,M,1,Regional Representative,46978,4,1/1/2012,Catalina Island Medical Center,90704,Non Profit,Small/Rural,Charity,55.0,14172.240440000001,1436470.7040000001,3989894.296,5235317,-191048,12
+25667,Adamson,David,M,1,Regional Representative,46978,4,1/1/2012,Kern Valley Hospital,93240-9529,District,Small/Rural,Charity,159.0,57728.56284,10131249.89,11391720.11,21343696,-179274,99
+46844,Holmes,Holly,F,3,Acting Director,248904,8,1/1/2010,Ojai Valley Community Hospital,93023-3163,Non Profit,Small/Rural,Charity,180.0,59504.62295,11955296.77,10326804.23,22492281,210180,103
+19868,Coulter,Tracy,F,1,Regional Representative,46978,4,1/1/2010,UC Irvine Medical Center,92868,Non Profit,Teaching,Alumni,3151.0,1476284.836,380582272.4,117664293.6,552107524,53860958,363
+29805,Wood,Emily,F,2,State Board Representative,89473,3,1/1/2011,St. Mary's Medical Center - san francisco,94117,Non Profit,Teaching,Alumni,871.5,503894.9617,134478569.3,56055091.67,193344412,2810751,234
+46996,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,1/1/2009,LAC USC Medical Center,90033,City/County,Teaching,Alumni,6753.0,2070024.44,827311396.9,274160384.1,780308445,-321163336,715
+34454,Web,David,M,3,Acting Director,248904,8,1/1/2012,Arrowhead Regional Medical Center,92324,City/County,Teaching,Alumni,2554.0,723744.8169,250464082.0,140295929.0,270810707,-119949304,353
+38798,Iwata,Akira,M,1,Regional Representative,46978,4,1/1/2011,Kern Medical Center,93305,City/County,Teaching,Alumni,1850.0,500659.6913,173745016.7,93066706.34,185789682,-81022041,211
+37436,Johanson,Sandy,F,2,State Board Representative,89473,3,1/1/2012,Riverside County Regional Medical Center,92555-3911,City/County,Teaching,Alumni,2403.0,968917.4973,272301253.5,105600423.5,383631414,5729737,373
+37043,Paanua,Kaaluai,M,2,State Board Representative,89473,3,1/1/2010,Santa Clara Valley Medical Center,95128,City/County,Teaching,Alumni,5314.0,1665619.301,543651243.9,394890175.1,624540818,-314000601,523
+43353,Rodriguez,Jose,M,4,Safety Inspection Member,23987,2,1/1/2011,Alameda Hospital,94501,City/County,Teaching,Alumni,450.0,1021054.09,302789256.3,142325346.7,463893926,18779323,453
+33207,Charles,Kenneth,M,2,State Board Representative,89473,3,1/1/2010,Community Regional Medical Center,93721-1324,Non Profit,Teaching,Alumni,3500.0,1710382.4230000002,414994752.2,207990670.8,643041802,20056379,606
+17741,Marlin,Bill,M,4,Safety Inspection Member,23987,2,1/1/2011,UC Davis Medical Center,95817-2282,Non Profit,Teaching,Alumni,6525.0,2901254.5110000004,727291813.6,288075685.4,1069148717,53781218,563
+26206,Fourier,Craig,M,3,Acting Director,248904,8,1/1/2011,UCSD Medical Center - Hillcrest,92103-8970,Non Profit,Teaching,Alumni,3892.0,2428730.281,462934124.3,332127550.7,941108780,146047105,527
+29823,Tanner,Patricia,F,3,Acting Director,248904,8,1/1/2009,UCSF Medical Center,94143,Non Profit,Teaching,Alumni,6062.0,4168988.809,982500473.3,518309865.7,1549426466,48616127,658
+33242,Frank,Vernon,M,4,Safety Inspection Member,23987,2,1/1/2011,Scripps Mercy Hospital,92103,Non Profit,Teaching,Alumni,2814.0,1321031.801,379102920.9,106430168.1,491523782,5990693,530
+45067,Adamson,David,M,4,Safety Inspection Member,23987,2,1/1/2012,Long Beach Memorial & Miller Children's Hospital,90806,Non Profit,Teaching,Alumni,5218.0,1187021.872,291248099.9,109328611.1,439084836,38508125,462
+22598,Holmes,Holly,F,3,Acting Director,248904,8,1/1/2012,Stanford Hospital & Clinics,94305,Non Profit,Teaching,Alumni,6392.0,4333934.423,928962114.3,662155885.7,1650391999,59273999,445
+39076,Wood,Emily,F,1,Regional Representative,46978,4,1/1/2010,California Pacific Medical Center - Pacific Campus,94115,Non Profit,Teaching,Alumni,1565.1,2736281.415,633790340.1,296020659.9,1074256998,144445998,730
+45736,Web,David,M,2,State Board Representative,89473,3,1/1/2011,Cedars-Sinai Medical Center,90048,Non Profit,Teaching,Alumni,8000.0,4662581.617,1285631166.0,461675838.2,1912179417,164872413,909
+HospitalID,Work_ID,LastName,FirstName,Gender,PositionID,PositionTitle,Compensation,MaxTerm,StartDate
+20266,231581,Adams,Sandy,F,1,Regional Representative,46978,4,2009-01-01
+37393,909709,Iwata,Akira,M,1,Regional Representative,46978,4,2011-01-01
+20277,398103,Johanson,Sandy,F,1,Regional Representative,46978,4,2012-01-01
+46348,664583,Paanua,Kaaluai,M,1,Regional Representative,46978,4,2011-01-01
+12145,756481,Rodriguez,Jose,M,1,Regional Representative,46978,4,2009-01-01
+46985,548312,Smith,Frank,M,1,Regional Representative,46978,4,2010-01-01
+17718,811240,Charles,Kenneth,M,1,Regional Representative,46978,4,2009-01-01
+46838,229849,Milgrom,Patricia,F,1,Regional Representative,46978,4,2009-01-01
+38802,310431,Dong,HongWei,F,1,Regional Representative,46978,4,2010-01-01
+11875,380668,Smith,Mary,F,1,Regional Representative,46978,4,2011-01-01
+35512,625519,Brown,Marietta,F,1,Regional Representative,46978,4,2009-01-01
+33251,411280,Manin,Emily,F,2,State Board Representative,89473,3,2009-01-01
+22181,661286,Jones,Holly,F,2,State Board Representative,89473,3,2012-01-01
+36569,966527,Flemming,Kris,F,2,State Board Representative,89473,3,2010-01-01
+44817,363672,Marlin,Bill,M,2,State Board Representative,89473,3,2010-01-01
+17757,308150,Fourier,Craig,M,3,Acting Director,248904,8,2005-01-01
+46342,768057,Tanner,Patricia,F,3,Acting Director,248904,8,2011-01-01
+17700,704360,Frank,Vernon,M,3,Acting Director,248904,8,2005-01-01
+10767,926378,Adamson,David,M,3,Acting Director,248904,8,2002-01-01
+28812,908658,Holmes,Holly,F,3,Acting Director,248904,8,2003-01-01
+21053,318165,Coulter,Tracy,F,4,Safety Inspection Member,23987,2,2011-01-01
+37285,304224,Wood,Emily,F,4,Safety Inspection Member,23987,2,2011-01-01
+20225,856720,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,2011-01-01
+45740,721586,Web,David,M,4,Safety Inspection Member,23987,2,2012-01-01
+44982,231581,Adams,Sandy,F,1,Regional Representative,46978,4,2008-01-01
+39110,909709,Iwata,Akira,M,1,Regional Representative,46978,4,2012-01-01
+34959,398103,Johanson,Sandy,F,1,Regional Representative,46978,4,2012-01-01
+38900,664583,Paanua,Kaaluai,M,1,Regional Representative,46978,4,2011-01-01
+45771,756481,Rodriguez,Jose,M,1,Regional Representative,46978,4,2011-01-01
+28283,548312,Smith,Frank,M,3,Acting Director,248904,8,2005-01-01
+17736,811240,Charles,Kenneth,M,3,Acting Director,248904,8,2006-01-01
+13738,229849,Milgrom,Patricia,F,4,Safety Inspection Member,23987,2,2011-01-01
+31032,310431,Dong,HongWei,F,4,Safety Inspection Member,23987,2,2012-01-01
+22460,380668,Smith,Mary,F,4,Safety Inspection Member,23987,2,2012-01-01
+13722,625519,Brown,Marietta,F,4,Safety Inspection Member,23987,2,2012-01-01
+32930,411280,Manin,Emily,F,1,Regional Representative,46978,4,2011-01-01
+39102,661286,Jones,Holly,F,2,State Board Representative,89473,3,2012-01-01
+20231,966527,Flemming,Kris,F,2,State Board Representative,89473,3,2012-01-01
+39050,363672,Marlin,Bill,M,3,Acting Director,248904,8,2008-01-01
+33192,308150,Fourier,Craig,M,1,Regional Representative,46978,4,2011-01-01
+43437,768057,Tanner,Patricia,F,1,Regional Representative,46978,4,2010-01-01
+33283,704360,Frank,Vernon,M,1,Regional Representative,46978,4,2012-01-01
+25667,926378,Adamson,David,M,1,Regional Representative,46978,4,2012-01-01
+46844,908658,Holmes,Holly,F,3,Acting Director,248904,8,2010-01-01
+19868,318165,Coulter,Tracy,F,1,Regional Representative,46978,4,2010-01-01
+29805,304224,Wood,Emily,F,2,State Board Representative,89473,3,2011-01-01
+46996,856720,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,2009-01-01
+34454,721586,Web,David,M,3,Acting Director,248904,8,2012-01-01
+38798,909709,Iwata,Akira,M,1,Regional Representative,46978,4,2011-01-01
+37436,398103,Johanson,Sandy,F,2,State Board Representative,89473,3,2012-01-01
+37043,664583,Paanua,Kaaluai,M,2,State Board Representative,89473,3,2010-01-01
+43353,756481,Rodriguez,Jose,M,4,Safety Inspection Member,23987,2,2011-01-01
+33207,811240,Charles,Kenneth,M,2,State Board Representative,89473,3,2010-01-01
+17741,363672,Marlin,Bill,M,4,Safety Inspection Member,23987,2,2011-01-01
+26206,308150,Fourier,Craig,M,3,Acting Director,248904,8,2011-01-01
+29823,768057,Tanner,Patricia,F,3,Acting Director,248904,8,2009-01-01
+33242,704360,Frank,Vernon,M,4,Safety Inspection Member,23987,2,2011-01-01
+45067,926378,Adamson,David,M,4,Safety Inspection Member,23987,2,2012-01-01
+22598,908658,Holmes,Holly,F,3,Acting Director,248904,8,2012-01-01
+39076,304224,Wood,Emily,F,1,Regional Representative,46978,4,2010-01-01
+45736,721586,Web,David,M,2,State Board Representative,89473,3,2011-01-01
+20266,231581,Khanh,Pham,M,1,Regional Representative,46978,4,2017-09-03
+20266,231581,Khanh,Pham,M,2,State Board Representative,89473,3,2017-09-03
+HospitalID,Work_ID,LastName,FirstName,Gender,PositionID,PositionTitle,Compensation,MaxTerm,StartDate
+20266,231581,Adams,Sandy,F,1,Regional Representative,46978,4,2009-01-01
+37393,909709,Iwata,Akira,M,1,Regional Representative,46978,4,2011-01-01
+20277,398103,Johanson,Sandy,F,1,Regional Representative,46978,4,2012-01-01
+46348,664583,Paanua,Kaaluai,M,1,Regional Representative,46978,4,2011-01-01
+12145,756481,Rodriguez,Jose,M,1,Regional Representative,46978,4,2009-01-01
+46985,548312,Smith,Frank,M,1,Regional Representative,46978,4,2010-01-01
+17718,811240,Charles,Kenneth,M,1,Regional Representative,46978,4,2009-01-01
+46838,229849,Milgrom,Patricia,F,1,Regional Representative,46978,4,2009-01-01
+38802,310431,Dong,HongWei,F,1,Regional Representative,46978,4,2010-01-01
+11875,380668,Smith,Mary,F,1,Regional Representative,46978,4,2011-01-01
+35512,625519,Brown,Marietta,F,1,Regional Representative,46978,4,2009-01-01
+33251,411280,Manin,Emily,F,2,State Board Representative,89473,3,2009-01-01
+22181,661286,Jones,Holly,F,2,State Board Representative,89473,3,2012-01-01
+36569,966527,Flemming,Kris,F,2,State Board Representative,89473,3,2010-01-01
+44817,363672,Marlin,Bill,M,2,State Board Representative,89473,3,2010-01-01
+17757,308150,Fourier,Craig,M,3,Acting Director,248904,8,2005-01-01
+46342,768057,Tanner,Patricia,F,3,Acting Director,248904,8,2011-01-01
+17700,704360,Frank,Vernon,M,3,Acting Director,248904,8,2005-01-01
+10767,926378,Adamson,David,M,3,Acting Director,248904,8,2002-01-01
+28812,908658,Holmes,Holly,F,3,Acting Director,248904,8,2003-01-01
+21053,318165,Coulter,Tracy,F,4,Safety Inspection Member,23987,2,2011-01-01
+37285,304224,Wood,Emily,F,4,Safety Inspection Member,23987,2,2011-01-01
+20225,856720,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,2011-01-01
+45740,721586,Web,David,M,4,Safety Inspection Member,23987,2,2012-01-01
+44982,231581,Adams,Sandy,F,1,Regional Representative,46978,4,2008-01-01
+39110,909709,Iwata,Akira,M,1,Regional Representative,46978,4,2012-01-01
+34959,398103,Johanson,Sandy,F,1,Regional Representative,46978,4,2012-01-01
+38900,664583,Paanua,Kaaluai,M,1,Regional Representative,46978,4,2011-01-01
+45771,756481,Rodriguez,Jose,M,1,Regional Representative,46978,4,2011-01-01
+28283,548312,Smith,Frank,M,3,Acting Director,248904,8,2005-01-01
+17736,811240,Charles,Kenneth,M,3,Acting Director,248904,8,2006-01-01
+13738,229849,Milgrom,Patricia,F,4,Safety Inspection Member,23987,2,2011-01-01
+31032,310431,Dong,HongWei,F,4,Safety Inspection Member,23987,2,2012-01-01
+22460,380668,Smith,Mary,F,4,Safety Inspection Member,23987,2,2012-01-01
+13722,625519,Brown,Marietta,F,4,Safety Inspection Member,23987,2,2012-01-01
+32930,411280,Manin,Emily,F,1,Regional Representative,46978,4,2011-01-01
+39102,661286,Jones,Holly,F,2,State Board Representative,89473,3,2012-01-01
+20231,966527,Flemming,Kris,F,2,State Board Representative,89473,3,2012-01-01
+39050,363672,Marlin,Bill,M,3,Acting Director,248904,8,2008-01-01
+33192,308150,Fourier,Craig,M,1,Regional Representative,46978,4,2011-01-01
+43437,768057,Tanner,Patricia,F,1,Regional Representative,46978,4,2010-01-01
+33283,704360,Frank,Vernon,M,1,Regional Representative,46978,4,2012-01-01
+25667,926378,Adamson,David,M,1,Regional Representative,46978,4,2012-01-01
+46844,908658,Holmes,Holly,F,3,Acting Director,248904,8,2010-01-01
+19868,318165,Coulter,Tracy,F,1,Regional Representative,46978,4,2010-01-01
+29805,304224,Wood,Emily,F,2,State Board Representative,89473,3,2011-01-01
+46996,856720,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,2009-01-01
+34454,721586,Web,David,M,3,Acting Director,248904,8,2012-01-01
+38798,909709,Iwata,Akira,M,1,Regional Representative,46978,4,2011-01-01
+37436,398103,Johanson,Sandy,F,2,State Board Representative,89473,3,2012-01-01
+37043,664583,Paanua,Kaaluai,M,2,State Board Representative,89473,3,2010-01-01
+43353,756481,Rodriguez,Jose,M,4,Safety Inspection Member,23987,2,2011-01-01
+33207,811240,Charles,Kenneth,M,2,State Board Representative,89473,3,2010-01-01
+17741,363672,Marlin,Bill,M,4,Safety Inspection Member,23987,2,2011-01-01
+26206,308150,Fourier,Craig,M,3,Acting Director,248904,8,2011-01-01
+29823,768057,Tanner,Patricia,F,3,Acting Director,248904,8,2009-01-01
+33242,704360,Frank,Vernon,M,4,Safety Inspection Member,23987,2,2011-01-01
+45067,926378,Adamson,David,M,4,Safety Inspection Member,23987,2,2012-01-01
+22598,908658,Holmes,Holly,F,3,Acting Director,248904,8,2012-01-01
+39076,304224,Wood,Emily,F,1,Regional Representative,46978,4,2010-01-01
+45736,721586,Web,David,M,2,State Board Representative,89473,3,2011-01-01
+20266,231581,Khanh,Pham,M,1,Regional Representative,46978,4,2017-09-03
+20266,231581,Khanh,Pham,M,2,State Board Representative,89473,3,2017-09-03
+HospitalID,Work_ID,LastName,FirstName,Gender,PositionID,PositionTitle,Compensation,MaxTerm,StartDate
+20266,231581,Adams,Sandy,F,1,Regional Representative,46978,4,2009-01-01
+37393,909709,Iwata,Akira,M,1,Regional Representative,46978,4,2011-01-01
+20277,398103,Johanson,Sandy,F,1,Regional Representative,46978,4,2012-01-01
+46348,664583,Paanua,Kaaluai,M,1,Regional Representative,46978,4,2011-01-01
+12145,756481,Rodriguez,Jose,M,1,Regional Representative,46978,4,2009-01-01
+46985,548312,Smith,Frank,M,1,Regional Representative,46978,4,2010-01-01
+17718,811240,Charles,Kenneth,M,1,Regional Representative,46978,4,2009-01-01
+46838,229849,Milgrom,Patricia,F,1,Regional Representative,46978,4,2009-01-01
+38802,310431,Dong,HongWei,F,1,Regional Representative,46978,4,2010-01-01
+11875,380668,Smith,Mary,F,1,Regional Representative,46978,4,2011-01-01
+35512,625519,Brown,Marietta,F,1,Regional Representative,46978,4,2009-01-01
+33251,411280,Manin,Emily,F,2,State Board Representative,89473,3,2009-01-01
+22181,661286,Jones,Holly,F,2,State Board Representative,89473,3,2012-01-01
+36569,966527,Flemming,Kris,F,2,State Board Representative,89473,3,2010-01-01
+44817,363672,Marlin,Bill,M,2,State Board Representative,89473,3,2010-01-01
+17757,308150,Fourier,Craig,M,3,Acting Director,248904,8,2005-01-01
+46342,768057,Tanner,Patricia,F,3,Acting Director,248904,8,2011-01-01
+17700,704360,Frank,Vernon,M,3,Acting Director,248904,8,2005-01-01
+10767,926378,Adamson,David,M,3,Acting Director,248904,8,2002-01-01
+28812,908658,Holmes,Holly,F,3,Acting Director,248904,8,2003-01-01
+21053,318165,Coulter,Tracy,F,4,Safety Inspection Member,23987,2,2011-01-01
+37285,304224,Wood,Emily,F,4,Safety Inspection Member,23987,2,2011-01-01
+20225,856720,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,2011-01-01
+45740,721586,Web,David,M,4,Safety Inspection Member,23987,2,2012-01-01
+44982,231581,Adams,Sandy,F,1,Regional Representative,46978,4,2008-01-01
+39110,909709,Iwata,Akira,M,1,Regional Representative,46978,4,2012-01-01
+34959,398103,Johanson,Sandy,F,1,Regional Representative,46978,4,2012-01-01
+38900,664583,Paanua,Kaaluai,M,1,Regional Representative,46978,4,2011-01-01
+45771,756481,Rodriguez,Jose,M,1,Regional Representative,46978,4,2011-01-01
+28283,548312,Smith,Frank,M,3,Acting Director,248904,8,2005-01-01
+17736,811240,Charles,Kenneth,M,3,Acting Director,248904,8,2006-01-01
+13738,229849,Milgrom,Patricia,F,4,Safety Inspection Member,23987,2,2011-01-01
+31032,310431,Dong,HongWei,F,4,Safety Inspection Member,23987,2,2012-01-01
+22460,380668,Smith,Mary,F,4,Safety Inspection Member,23987,2,2012-01-01
+13722,625519,Brown,Marietta,F,4,Safety Inspection Member,23987,2,2012-01-01
+32930,411280,Manin,Emily,F,1,Regional Representative,46978,4,2011-01-01
+39102,661286,Jones,Holly,F,2,State Board Representative,89473,3,2012-01-01
+20231,966527,Flemming,Kris,F,2,State Board Representative,89473,3,2012-01-01
+39050,363672,Marlin,Bill,M,3,Acting Director,248904,8,2008-01-01
+33192,308150,Fourier,Craig,M,1,Regional Representative,46978,4,2011-01-01
+43437,768057,Tanner,Patricia,F,1,Regional Representative,46978,4,2010-01-01
+33283,704360,Frank,Vernon,M,1,Regional Representative,46978,4,2012-01-01
+25667,926378,Adamson,David,M,1,Regional Representative,46978,4,2012-01-01
+46844,908658,Holmes,Holly,F,3,Acting Director,248904,8,2010-01-01
+19868,318165,Coulter,Tracy,F,1,Regional Representative,46978,4,2010-01-01
+29805,304224,Wood,Emily,F,2,State Board Representative,89473,3,2011-01-01
+46996,856720,Roberts,Melissa,F,4,Safety Inspection Member,23987,2,2009-01-01
+34454,721586,Web,David,M,3,Acting Director,248904,8,2012-01-01
+38798,909709,Iwata,Akira,M,1,Regional Representative,46978,4,2011-01-01
+37436,398103,Johanson,Sandy,F,2,State Board Representative,89473,3,2012-01-01
+37043,664583,Paanua,Kaaluai,M,2,State Board Representative,89473,3,2010-01-01
+43353,756481,Rodriguez,Jose,M,4,Safety Inspection Member,23987,2,2011-01-01
+33207,811240,Charles,Kenneth,M,2,State Board Representative,89473,3,2010-01-01
+17741,363672,Marlin,Bill,M,4,Safety Inspection Member,23987,2,2011-01-01
+26206,308150,Fourier,Craig,M,3,Acting Director,248904,8,2011-01-01
+29823,768057,Tanner,Patricia,F,3,Acting Director,248904,8,2009-01-01
+33242,704360,Frank,Vernon,M,4,Safety Inspection Member,23987,2,2011-01-01
+45067,926378,Adamson,David,M,4,Safety Inspection Member,23987,2,2012-01-01
+22598,908658,Holmes,Holly,F,3,Acting Director,248904,8,2012-01-01
+39076,304224,Wood,Emily,F,1,Regional Representative,46978,4,2010-01-01
+45736,721586,Web,David,M,2,State Board Representative,89473,3,2011-01-01
+20266,231581,Khanh,Pham,M,1,Regional Representative,46978,4,2017-09-03
+20266,231581,Khanh,Pham,M,2,State Board Representative,89473,3,2017-09-03

@@ -1,0 +1,62 @@
+HospitalID	Work_ID	LastName	FirstName	Gender	PositionID	PositionTitle	Compensation	MaxTerm	StartDate
+20266	231581	Adams	Sandy	F	1	Regional Representative	46978	4	1/1/2009
+37393	909709	Iwata	Akira	M	1	Regional Representative	46978	4	1/1/2011
+20277	398103	Johanson	Sandy	F	1	Regional Representative	46978	4	1/1/2012
+46348	664583	Paanua	Kaaluai	M	1	Regional Representative	46978	4	1/1/2011
+12145	756481	Rodriguez	Jose	M	1	Regional Representative	46978	4	1/1/2009
+46985	548312	Smith	Frank	M	1	Regional Representative	46978	4	1/1/2010
+17718	811240	Charles	Kenneth	M	1	Regional Representative	46978	4	1/1/2009
+46838	229849	Milgrom	Patricia	F	1	Regional Representative	46978	4	1/1/2009
+38802	310431	Dong	HongWei	F	1	Regional Representative	46978	4	1/1/2010
+11875	380668	Smith	Mary	F	1	Regional Representative	46978	4	1/1/2011
+35512	625519	Brown	Marietta	F	1	Regional Representative	46978	4	1/1/2009
+33251	411280	Manin	Emily	F	2	State Board Representative	89473	3	1/1/2009
+22181	661286	Jones	Holly	F	2	State Board Representative	89473	3	1/1/2012
+36569	966527	Flemming	Kris	F	2	State Board Representative	89473	3	1/1/2010
+44817	363672	Marlin	Bill	M	2	State Board Representative	89473	3	1/1/2010
+17757	308150	Fourier	Craig	M	3	Acting Director	248904	8	1/1/2005
+46342	768057	Tanner	Patricia	F	3	Acting Director	248904	8	1/1/2011
+17700	704360	Frank	Vernon	M	3	Acting Director	248904	8	1/1/2005
+10767	926378	Adamson	David	M	3	Acting Director	248904	8	1/1/2002
+28812	908658	Holmes	Holly	F	3	Acting Director	248904	8	1/1/2003
+21053	318165	Coulter	Tracy	F	4	Safety Inspection Member	23987	2	1/1/2011
+37285	304224	Wood	Emily	F	4	Safety Inspection Member	23987	2	1/1/2011
+20225	856720	Roberts	Melissa	F	4	Safety Inspection Member	23987	2	1/1/2011
+45740	721586	Web	David	M	4	Safety Inspection Member	23987	2	1/1/2012
+44982	231581	Adams	Sandy	F	1	Regional Representative	46978	4	1/1/2008
+39110	909709	Iwata	Akira	M	1	Regional Representative	46978	4	1/1/2012
+34959	398103	Johanson	Sandy	F	1	Regional Representative	46978	4	1/1/2012
+38900	664583	Paanua	Kaaluai	M	1	Regional Representative	46978	4	1/1/2011
+45771	756481	Rodriguez	Jose	M	1	Regional Representative	46978	4	1/1/2011
+28283	548312	Smith	Frank	M	3	Acting Director	248904	8	1/1/2005
+17736	811240	Charles	Kenneth	M	3	Acting Director	248904	8	1/1/2006
+13738	229849	Milgrom	Patricia	F	4	Safety Inspection Member	23987	2	1/1/2011
+31032	310431	Dong	HongWei	F	4	Safety Inspection Member	23987	2	1/1/2012
+22460	380668	Smith	Mary	F	4	Safety Inspection Member	23987	2	1/1/2012
+13722	625519	Brown	Marietta	F	4	Safety Inspection Member	23987	2	1/1/2012
+32930	411280	Manin	Emily	F	1	Regional Representative	46978	4	1/1/2011
+39102	661286	Jones	Holly	F	2	State Board Representative	89473	3	1/1/2012
+20231	966527	Flemming	Kris	F	2	State Board Representative	89473	3	1/1/2012
+39050	363672	Marlin	Bill	M	3	Acting Director	248904	8	1/1/2008
+33192	308150	Fourier	Craig	M	1	Regional Representative	46978	4	1/1/2011
+43437	768057	Tanner	Patricia	F	1	Regional Representative	46978	4	1/1/2010
+33283	704360	Frank	Vernon	M	1	Regional Representative	46978	4	1/1/2012
+25667	926378	Adamson	David	M	1	Regional Representative	46978	4	1/1/2012
+46844	908658	Holmes	Holly	F	3	Acting Director	248904	8	1/1/2010
+19868	318165	Coulter	Tracy	F	1	Regional Representative	46978	4	1/1/2010
+29805	304224	Wood	Emily	F	2	State Board Representative	89473	3	1/1/2011
+46996	856720	Roberts	Melissa	F	4	Safety Inspection Member	23987	2	1/1/2009
+34454	721586	Web	David	M	3	Acting Director	248904	8	1/1/2012
+38798	909709	Iwata	Akira	M	1	Regional Representative	46978	4	1/1/2011
+37436	398103	Johanson	Sandy	F	2	State Board Representative	89473	3	1/1/2012
+37043	664583	Paanua	Kaaluai	M	2	State Board Representative	89473	3	1/1/2010
+43353	756481	Rodriguez	Jose	M	4	Safety Inspection Member	23987	2	1/1/2011
+33207	811240	Charles	Kenneth	M	2	State Board Representative	89473	3	1/1/2010
+17741	363672	Marlin	Bill	M	4	Safety Inspection Member	23987	2	1/1/2011
+26206	308150	Fourier	Craig	M	3	Acting Director	248904	8	1/1/2011
+29823	768057	Tanner	Patricia	F	3	Acting Director	248904	8	1/1/2009
+33242	704360	Frank	Vernon	M	4	Safety Inspection Member	23987	2	1/1/2011
+45067	926378	Adamson	David	M	4	Safety Inspection Member	23987	2	1/1/2012
+22598	908658	Holmes	Holly	F	3	Acting Director	248904	8	1/1/2012
+39076	304224	Wood	Emily	F	1	Regional Representative	46978	4	1/1/2010
+45736	721586	Web	David	M	2	State Board Representative	89473	3	1/1/2011

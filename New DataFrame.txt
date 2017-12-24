@@ -1,0 +1,84 @@
+17736	1	45736	Mountains Community Hospital	92352	www.mchcares.com	District	Small/Rural	Charity	158.0	30786.19672	5733926.902000001	10727445.1	11947133	-4514239	35
+17741	1	29823	Colusa Regional Medical Center	95932-2954	www.colusamedicalcenter.org	Non Profit	Small/Rural	Charity	168.0	51726.4918	9022366.447	10402509.55	19445901	21025	48
+20231	1	33207	Memorial Hospital - Los Banos	93635-3419	www.memoriallosbanos.org	Non Profit	Small/Rural	Charity	235.0	105166.8934	15065967.36	23338063.64	39282960	878929	48
+20266	1	44817	Fairchild Medical Center	96097-3450	www.fairchildmed.org	Non Profit	Small/Rural	Charity	250.0	108162.9126	14859739.23	23623658.77	40140721	1657323	25
+22598	1	37043	Colorado River Medical Center	92363	coloradorivermedical.org	Investor	Small/Rural	Charity	75.0	33593.68306	2309239.599	3787718.401	12295288	6198330	25
+25667	1	46342	Coalinga Regional Medical Center	93210	www.coalingamedicalcenter.com	District	Small/Rural	Charity	160.0	65792.42623	15341310.03	7916539.967999999	24164520	906670	131
+28812	1	13722	Redwood Memorial Hospital	95540	www.stjosepheureka.org	Non Profit	Small/Rural	Charity	193.0	103189.4044	14252309.04	18158329.96	37957024	5546385	35
+29823	1	20225	Frank R. Howard Memorial Hospital	95490-4225	www.howardhospital.com	Non Profit	Small/Rural	Charity	226.0	94015.90984	17300751.23	14392070.77	34945064	3252242	25
+33192	1	37436	Fallbrook Hospital	92028	www.fallbrookhospital.com	District	Small/Rural	Charity	501.0	108960.418	23001687.34	14727466.66	40329849	2600695	146
+33242	1	38802	Santa Ynez Valley Cottage Hospital	93463	www.sbch.org	Non Profit	Small/Rural	Charity	67.0	28773.45355	1780969.0180000002	8235087.982000001	10751114	735057	20
+33251	1	45067	Glenn Medical Center	95988-2745	www.glennmed.org	Non Profit	Small/Rural	Charity	100.0	29712.3306	2076879.134	9501694.866	11932140	353566	15
+33283	1	46844	Palm Drive Hospital	95472	www.palmdrivehospital.com	District	Small/Rural	Charity	191.0	61816.759560000006	13613286.65	14261284.35	22745333	-5129238	28
+34959	1	11875	San Gorgonio Memorial Hospital	92220	www.sgmh.org	District	Small/Rural	Charity	259.0	14313.049180000002	6184049.707	4181151.293	5303740	-5061461	77
+36569	1	34959	Biggs-Gridley Memorial Hospital	95948	www.frhg.org	Non Profit	Small/Rural	Charity	170.0	40498.73497	8513820.328	7888571.672	15294215	-1108177	45
+37285	1	43437	Southern Inyo Hospital	93545-1009	www.sihd.org	District	Small/Rural	Charity	121.0	17566.92896	2890228.445	4578887.555	6677960	-791156	37
+37393	1	45771	Eastern Plumas Hospital - Portola Campus	96122-9406	www.ephc.org	District	Small/Rural	Charity	219.0	52983.85792	8074272.754	12996071.25	19484351	-1585993	76
+37436	1	46838	Modoc Medical Center	96101	www.modocmedicalcenter.com	City/County	Small/Rural	Charity	170.0	26260.51366	4705385.115	8679873.885	9821366	-3563893	87
+38798	1	44982	Healdsburg District Hospital	95448-3382	www.nschd.org	District	Small/Rural	Charity	150.0	64759.03825	10963429.49	14259517.51	23993709	-1229238	38
+38802	1	43353	Catalina Island Medical Center	90704	www.catalinaislandmedicalcenter.org	Non Profit	Small/Rural	Charity	55.0	14172.240440000001	1436470.7040000001	3989894.296	5235317	-191048	12
+38900	1	10767	Kern Valley Hospital	93240-9529	www.kvhd.org	District	Small/Rural	Charity	159.0	57728.56284	10131249.89	11391720.11	21343696	-179274	99
+39050	1	19868	Ojai Valley Community Hospital	93023-3163	www.cmhhospital.org	Non Profit	Small/Rural	Charity	180.0	59504.62295	11955296.77	10326804.23	22492281	210180	103
+1	Mountains Community Hospital	92352	www.mchcares.com	District	Small/Rural	Charity	158.0	30786.19672	5733926.902000001	10727445.1	11947133	-4514239	35
+1	Colusa Regional Medical Center	95932-2954	www.colusamedicalcenter.org	Non Profit	Small/Rural	Charity	168.0	51726.4918	9022366.447	10402509.55	19445901	21025	48
+1	Memorial Hospital - Los Banos	93635-3419	www.memoriallosbanos.org	Non Profit	Small/Rural	Charity	235.0	105166.8934	15065967.36	23338063.64	39282960	878929	48
+1	Fairchild Medical Center	96097-3450	www.fairchildmed.org	Non Profit	Small/Rural	Charity	250.0	108162.9126	14859739.23	23623658.77	40140721	1657323	25
+1	Colorado River Medical Center	92363	coloradorivermedical.org	Investor	Small/Rural	Charity	75.0	33593.68306	2309239.599	3787718.401	12295288	6198330	25
+1	Coalinga Regional Medical Center	93210	www.coalingamedicalcenter.com	District	Small/Rural	Charity	160.0	65792.42623	15341310.03	7916539.967999999	24164520	906670	131
+1	Redwood Memorial Hospital	95540	www.stjosepheureka.org	Non Profit	Small/Rural	Charity	193.0	103189.4044	14252309.04	18158329.96	37957024	5546385	35
+1	Frank R. Howard Memorial Hospital	95490-4225	www.howardhospital.com	Non Profit	Small/Rural	Charity	226.0	94015.90984	17300751.23	14392070.77	34945064	3252242	25
+1	Fallbrook Hospital	92028	www.fallbrookhospital.com	District	Small/Rural	Charity	501.0	108960.418	23001687.34	14727466.66	40329849	2600695	146
+1	Santa Ynez Valley Cottage Hospital	93463	www.sbch.org	Non Profit	Small/Rural	Charity	67.0	28773.45355	1780969.0180000002	8235087.982000001	10751114	735057	20
+1	Glenn Medical Center	95988-2745	www.glennmed.org	Non Profit	Small/Rural	Charity	100.0	29712.3306	2076879.134	9501694.866	11932140	353566	15
+1	Palm Drive Hospital	95472	www.palmdrivehospital.com	District	Small/Rural	Charity	191.0	61816.759560000006	13613286.65	14261284.35	22745333	-5129238	28
+1	San Gorgonio Memorial Hospital	92220	www.sgmh.org	District	Small/Rural	Charity	259.0	14313.049180000002	6184049.707	4181151.293	5303740	-5061461	77
+1	Biggs-Gridley Memorial Hospital	95948	www.frhg.org	Non Profit	Small/Rural	Charity	170.0	40498.73497	8513820.328	7888571.672	15294215	-1108177	45
+1	Southern Inyo Hospital	93545-1009	www.sihd.org	District	Small/Rural	Charity	121.0	17566.92896	2890228.445	4578887.555	6677960	-791156	37
+1	Eastern Plumas Hospital - Portola Campus	96122-9406	www.ephc.org	District	Small/Rural	Charity	219.0	52983.85792	8074272.754	12996071.25	19484351	-1585993	76
+1	Modoc Medical Center	96101	www.modocmedicalcenter.com	City/County	Small/Rural	Charity	170.0	26260.51366	4705385.115	8679873.885	9821366	-3563893	87
+1	Healdsburg District Hospital	95448-3382	www.nschd.org	District	Small/Rural	Charity	150.0	64759.03825	10963429.49	14259517.51	23993709	-1229238	38
+1	Catalina Island Medical Center	90704	www.catalinaislandmedicalcenter.org	Non Profit	Small/Rural	Charity	55.0	14172.240440000001	1436470.7040000001	3989894.296	5235317	-191048	12
+1	Kern Valley Hospital	93240-9529	www.kvhd.org	District	Small/Rural	Charity	159.0	57728.56284	10131249.89	11391720.11	21343696	-179274	99
+1	Ojai Valley Community Hospital	93023-3163	www.cmhhospital.org	Non Profit	Small/Rural	Charity	180.0	59504.62295	11955296.77	10326804.23	22492281	210180	103
+17736	1	45736	Mountains Community Hospital	92352	www.mchcares.com	District	Small/Rural	Charity	158.0	30786.19672	5733926.902000001	10727445.1	11947133	-4514239	35
+17741	1	29823	Colusa Regional Medical Center	95932-2954	www.colusamedicalcenter.org	Non Profit	Small/Rural	Charity	168.0	51726.4918	9022366.447	10402509.55	19445901	21025	48
+20231	1	33207	Memorial Hospital - Los Banos	93635-3419	www.memoriallosbanos.org	Non Profit	Small/Rural	Charity	235.0	105166.8934	15065967.36	23338063.64	39282960	878929	48
+20266	1	44817	Fairchild Medical Center	96097-3450	www.fairchildmed.org	Non Profit	Small/Rural	Charity	250.0	108162.9126	14859739.23	23623658.77	40140721	1657323	25
+22598	1	37043	Colorado River Medical Center	92363	coloradorivermedical.org	Investor	Small/Rural	Charity	75.0	33593.68306	2309239.599	3787718.401	12295288	6198330	25
+25667	1	46342	Coalinga Regional Medical Center	93210	www.coalingamedicalcenter.com	District	Small/Rural	Charity	160.0	65792.42623	15341310.03	7916539.967999999	24164520	906670	131
+28812	1	13722	Redwood Memorial Hospital	95540	www.stjosepheureka.org	Non Profit	Small/Rural	Charity	193.0	103189.4044	14252309.04	18158329.96	37957024	5546385	35
+29823	1	20225	Frank R. Howard Memorial Hospital	95490-4225	www.howardhospital.com	Non Profit	Small/Rural	Charity	226.0	94015.90984	17300751.23	14392070.77	34945064	3252242	25
+33192	1	37436	Fallbrook Hospital	92028	www.fallbrookhospital.com	District	Small/Rural	Charity	501.0	108960.418	23001687.34	14727466.66	40329849	2600695	146
+33242	1	38802	Santa Ynez Valley Cottage Hospital	93463	www.sbch.org	Non Profit	Small/Rural	Charity	67.0	28773.45355	1780969.0180000002	8235087.982000001	10751114	735057	20
+33251	1	45067	Glenn Medical Center	95988-2745	www.glennmed.org	Non Profit	Small/Rural	Charity	100.0	29712.3306	2076879.134	9501694.866	11932140	353566	15
+33283	1	46844	Palm Drive Hospital	95472	www.palmdrivehospital.com	District	Small/Rural	Charity	191.0	61816.759560000006	13613286.65	14261284.35	22745333	-5129238	28
+34959	1	11875	San Gorgonio Memorial Hospital	92220	www.sgmh.org	District	Small/Rural	Charity	259.0	14313.049180000002	6184049.707	4181151.293	5303740	-5061461	77
+36569	1	34959	Biggs-Gridley Memorial Hospital	95948	www.frhg.org	Non Profit	Small/Rural	Charity	170.0	40498.73497	8513820.328	7888571.672	15294215	-1108177	45
+37285	1	43437	Southern Inyo Hospital	93545-1009	www.sihd.org	District	Small/Rural	Charity	121.0	17566.92896	2890228.445	4578887.555	6677960	-791156	37
+37393	1	45771	Eastern Plumas Hospital - Portola Campus	96122-9406	www.ephc.org	District	Small/Rural	Charity	219.0	52983.85792	8074272.754	12996071.25	19484351	-1585993	76
+37436	1	46838	Modoc Medical Center	96101	www.modocmedicalcenter.com	City/County	Small/Rural	Charity	170.0	26260.51366	4705385.115	8679873.885	9821366	-3563893	87
+38798	1	44982	Healdsburg District Hospital	95448-3382	www.nschd.org	District	Small/Rural	Charity	150.0	64759.03825	10963429.49	14259517.51	23993709	-1229238	38
+38802	1	43353	Catalina Island Medical Center	90704	www.catalinaislandmedicalcenter.org	Non Profit	Small/Rural	Charity	55.0	14172.240440000001	1436470.7040000001	3989894.296	5235317	-191048	12
+38900	1	10767	Kern Valley Hospital	93240-9529	www.kvhd.org	District	Small/Rural	Charity	159.0	57728.56284	10131249.89	11391720.11	21343696	-179274	99
+39050	1	19868	Ojai Valley Community Hospital	93023-3163	www.cmhhospital.org	Non Profit	Small/Rural	Charity	180.0	59504.62295	11955296.77	10326804.23	22492281	210180	103
+17736	1	45736	Mountains Community Hospital	92352	www.mchcares.com	District	Small/Rural	Charity	158.0	30786.19672	5733926.902000001	10727445.1	11947133	-4514239	35
+17741	1	29823	Colusa Regional Medical Center	95932-2954	www.colusamedicalcenter.org	Non Profit	Small/Rural	Charity	168.0	51726.4918	9022366.447	10402509.55	19445901	21025	48
+20231	1	33207	Memorial Hospital - Los Banos	93635-3419	www.memoriallosbanos.org	Non Profit	Small/Rural	Charity	235.0	105166.8934	15065967.36	23338063.64	39282960	878929	48
+20266	1	44817	Fairchild Medical Center	96097-3450	www.fairchildmed.org	Non Profit	Small/Rural	Charity	250.0	108162.9126	14859739.23	23623658.77	40140721	1657323	25
+22598	1	37043	Colorado River Medical Center	92363	coloradorivermedical.org	Investor	Small/Rural	Charity	75.0	33593.68306	2309239.599	3787718.401	12295288	6198330	25
+25667	1	46342	Coalinga Regional Medical Center	93210	www.coalingamedicalcenter.com	District	Small/Rural	Charity	160.0	65792.42623	15341310.03	7916539.967999999	24164520	906670	131
+28812	1	13722	Redwood Memorial Hospital	95540	www.stjosepheureka.org	Non Profit	Small/Rural	Charity	193.0	103189.4044	14252309.04	18158329.96	37957024	5546385	35
+29823	1	20225	Frank R. Howard Memorial Hospital	95490-4225	www.howardhospital.com	Non Profit	Small/Rural	Charity	226.0	94015.90984	17300751.23	14392070.77	34945064	3252242	25
+33192	1	37436	Fallbrook Hospital	92028	www.fallbrookhospital.com	District	Small/Rural	Charity	501.0	108960.418	23001687.34	14727466.66	40329849	2600695	146
+33242	1	38802	Santa Ynez Valley Cottage Hospital	93463	www.sbch.org	Non Profit	Small/Rural	Charity	67.0	28773.45355	1780969.0180000002	8235087.982000001	10751114	735057	20
+33251	1	45067	Glenn Medical Center	95988-2745	www.glennmed.org	Non Profit	Small/Rural	Charity	100.0	29712.3306	2076879.134	9501694.866	11932140	353566	15
+33283	1	46844	Palm Drive Hospital	95472	www.palmdrivehospital.com	District	Small/Rural	Charity	191.0	61816.759560000006	13613286.65	14261284.35	22745333	-5129238	28
+34959	1	11875	San Gorgonio Memorial Hospital	92220	www.sgmh.org	District	Small/Rural	Charity	259.0	14313.049180000002	6184049.707	4181151.293	5303740	-5061461	77
+36569	1	34959	Biggs-Gridley Memorial Hospital	95948	www.frhg.org	Non Profit	Small/Rural	Charity	170.0	40498.73497	8513820.328	7888571.672	15294215	-1108177	45
+37285	1	43437	Southern Inyo Hospital	93545-1009	www.sihd.org	District	Small/Rural	Charity	121.0	17566.92896	2890228.445	4578887.555	6677960	-791156	37
+37393	1	45771	Eastern Plumas Hospital - Portola Campus	96122-9406	www.ephc.org	District	Small/Rural	Charity	219.0	52983.85792	8074272.754	12996071.25	19484351	-1585993	76
+37436	1	46838	Modoc Medical Center	96101	www.modocmedicalcenter.com	City/County	Small/Rural	Charity	170.0	26260.51366	4705385.115	8679873.885	9821366	-3563893	87
+38798	1	44982	Healdsburg District Hospital	95448-3382	www.nschd.org	District	Small/Rural	Charity	150.0	64759.03825	10963429.49	14259517.51	23993709	-1229238	38
+38802	1	43353	Catalina Island Medical Center	90704	www.catalinaislandmedicalcenter.org	Non Profit	Small/Rural	Charity	55.0	14172.240440000001	1436470.7040000001	3989894.296	5235317	-191048	12
+38900	1	10767	Kern Valley Hospital	93240-9529	www.kvhd.org	District	Small/Rural	Charity	159.0	57728.56284	10131249.89	11391720.11	21343696	-179274	99
+39050	1	19868	Ojai Valley Community Hospital	93023-3163	www.cmhhospital.org	Non Profit	Small/Rural	Charity	180.0	59504.62295	11955296.77	10326804.23	22492281	210180	103

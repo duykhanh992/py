@@ -1,0 +1,15 @@
+20266	Adams	Sandy	F	1	Regional Representative	46978	4	1/1/2009	Mammoth Hospital	93546-0660	District	Small/Rural	Charity	327.0	135520.2186	20523425.53	34916220.47	49933713	-5505933	15
+37393	Iwata	Akira	M	1	Regional Representative	46978	4	1/1/2011	Victor Valley Community Hospital	92392	Non Profit	Small/Rural	Charity	345.0	136156.6913	33447542.78	20348596.22	53351748	-444391	99
+20277	Johanson	Sandy	F	1	Regional Representative	46978	4	1/1/2012	Pioneers Memorial Hospital	92227	District	Small/Rural	Charity	601.2	197094.2541	37254178.67	37832448.33	72933707	-2152920	107
+46838	Milgrom	Patricia	F	1	Regional Representative	46978	4	1/1/2009	Mountains Community Hospital	92352	District	Small/Rural	Charity	158.0	30786.19672	5733926.902000001	10727445.1	11947133	-4514239	35
+17757	Fourier	Craig	M	3	Acting Director	248904	8	1/1/2005	Sutter Lakeside Hospital	95453-6112	Non Profit	Small/Rural	Charity	353.0	173227.4863	28647611.24	39621438.76	64464737	-3804313	25
+21053	Coulter	Tracy	F	4	Safety Inspection Member	23987	2	1/1/2011	Sutter Amador Hospital	95642-2379	Non Profit	Small/Rural	Charity	318.0	161745.22400000002	30646705.07	30277613.93	59669536	-1254783	42
+13738	Milgrom	Patricia	F	4	Safety Inspection Member	23987	2	1/1/2011	Palm Drive Hospital	95472	District	Small/Rural	Charity	191.0	61816.759560000006	13613286.65	14261284.35	22745333	-5129238	28
+22460	Smith	Mary	F	4	Safety Inspection Member	23987	2	1/1/2012	San Gorgonio Memorial Hospital	92220	District	Small/Rural	Charity	259.0	14313.049180000002	6184049.707	4181151.293	5303740	-5061461	77
+13722	Brown	Marietta	F	4	Safety Inspection Member	23987	2	1/1/2012	Marshall Hospital	95667	Non Profit	Small/Rural	Charity	900.0	404802.8279	81584337.68	75492249.32	149225726	-7850861	102
+32930	Manin	Emily	F	1	Regional Representative	46978	4	1/1/2011	Biggs-Gridley Memorial Hospital	95948	Non Profit	Small/Rural	Charity	170.0	40498.73497	8513820.328	7888571.672	15294215	-1108177	45
+20231	Flemming	Kris	F	2	State Board Representative	89473	3	1/1/2012	Southern Inyo Hospital	93545-1009	District	Small/Rural	Charity	121.0	17566.92896	2890228.445	4578887.555	6677960	-791156	37
+39050	Marlin	Bill	M	3	Acting Director	248904	8	1/1/2008	Eastern Plumas Hospital - Portola Campus	96122-9406	District	Small/Rural	Charity	219.0	52983.85792	8074272.754	12996071.25	19484351	-1585993	76
+33192	Fourier	Craig	M	1	Regional Representative	46978	4	1/1/2011	Modoc Medical Center	96101	City/County	Small/Rural	Charity	170.0	26260.51366	4705385.115	8679873.885	9821366	-3563893	87
+43437	Tanner	Patricia	F	1	Regional Representative	46978	4	1/1/2010	Healdsburg District Hospital	95448-3382	District	Small/Rural	Charity	150.0	64759.03825	10963429.49	14259517.51	23993709	-1229238	38
+25667	Adamson	David	M	1	Regional Representative	46978	4	1/1/2012	Kern Valley Hospital	93240-9529	District	Small/Rural	Charity	159.0	57728.56284	10131249.89	11391720.11	21343696	-179274	99
